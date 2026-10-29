@@ -56,6 +56,9 @@ dev_dependencies:
 flutter_launcher_icons:
   image_path: assets/images/mi_foto.png
   android: true
+  # Ícono adaptativo (Android 8+): la foto como fondo para que llene todo el círculo
+  adaptive_icon_background: assets/images/icono_fondo.png
+  adaptive_icon_foreground: assets/images/icono_frente.png
   ios: true
   remove_alpha_ios: true
   web:
