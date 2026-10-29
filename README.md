@@ -1,5 +1,7 @@
 # Caja de Herramientas (Flutter)
 
+**Autor:** Israel Vargas Castro · Matrícula 2023-1861
+
 Aplicación multiusos hecha en Flutter con 8 vistas, accesibles desde el menú lateral:
 
 | # | Vista | API |
