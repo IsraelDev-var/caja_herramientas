@@ -1,4 +1,4 @@
-package do.itla.caja_herramientas
+package edu.itla.caja_herramientas
 
 import io.flutter.embedding.android.FlutterActivity
 
